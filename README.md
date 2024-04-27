@@ -24,6 +24,12 @@ This library was used to control the servo motor via PWM.
 ### [WiFi](https://www.arduino.cc/reference/en/libraries/wifi/)
 This library was used to connect to a LAN and set the ESP up as a web server
 
-## Wiring Diagram
-![](https://github.com/ChristopherBrown200/CSC-428-Blinds/blob/main/Wiring.jpg)
+## [Code](https://github.com/ChristopherBrown200/CSC-428-Blinds)
+The code for this project can be found in it's github repository.
 
+
+## Wiring Diagram
+![](https://github.com/ChristopherBrown200/CSC-428-Blinds/blob/main/Pictures/Wiring.jpg)
+
+## 3D Prints 
+The `.stl` files used for this project can be found [here](https://github.com/ChristopherBrown200/CSC-428-Blinds/tree/main/3D%20Models), with thanks to [Tenthrow](https://www.printables.com/@Tenthrow_13787) on Printibles for his knob design.
