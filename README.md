@@ -25,5 +25,5 @@ This library was used to control the servo motor via PWM.
 This library was used to connect to a LAN and set the ESP up as a web server
 
 ## Wiring Diagram
-![]()
+![](https://github.com/ChristopherBrown200/CSC-428-Blinds/blob/main/Wiring.jpg)
 
