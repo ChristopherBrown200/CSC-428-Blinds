@@ -1,4 +1,4 @@
-|BreadBoard| Connection | ESP | ESP | Connection |
+|Breadboard| Connection | ESP | ESP | Connection |
 | :---: | :---: | :---: | :---: | :---: |
 |1      |       | CLK   | 5V   | Common Power
 |2      |       | SD0   | CMD  |
@@ -14,8 +14,8 @@
 |12     | Display MISO  | P19   | P33  |
 |13     |       | GND   | P32  |
 |14     |       | P21   | P35  |
-|15     |       | RX    | P34  | Limit SW NO
+|15     |       | RX    | P34  | 
 |16     |       | TX    | SVN  |
-|17     |       | P22   | SVP  |
+|17     | Limit SW| P22   | SVP  |
 |18     | Display MOSI  | P23   | EN   |
-|19     |       | GND   | 3V3  | Limit SW C
+|19     |       | GND   | 3V3  | Limit SW
