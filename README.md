@@ -1,6 +1,10 @@
 # CSC 428 Blinds Project
 The goal of this project was to create a device that was capable of controlling the pull cord blinds in my apartment's bedroom remotely without removing the current functionality.
 
+## Final Product
+![](https://github.com/ChristopherBrown200/CSC-428-Blinds/blob/main/Pictures/Fianl%20Product%20Casing.jpg)
+![](https://github.com/ChristopherBrown200/CSC-428-Blinds/blob/main/Pictures/Final%20Product%20No%20Casing.jpg)
+
 ## Parts Used
 Part | |Price
 | --- | ---: | ---:|
