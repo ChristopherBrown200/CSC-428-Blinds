@@ -9,7 +9,7 @@ Part | |Price
 [Continuous Servo Motor](https://www.amazon.com/dp/B08JCVLSCK?psc=1&ref=ppx_yo2ov_dt_b_product_details) | | $29.99
 [1.54" eInk Display](https://www.adafruit.com/product/4196) | | $24.99
 [M2 Screws](https://www.amazon.com/dp/B07W5J19Y5?psc=1&ref=ppx_yo2ov_dt_b_product_details) | | $12.99
-[Soderable Breadboard](https://www.digikey.com/en/products/detail/digikey/DKS-SOLDERBREAD-02/15970925) | | $1.10
+[Solderable Breadboard](https://www.digikey.com/en/products/detail/digikey/DKS-SOLDERBREAD-02/15970925) | | $1.10
 Black 3D Printing Filament (Fab Lab) | | -
 3M Screws (Fab Lab) | | -
 Wire (Fab Lab) | | -
