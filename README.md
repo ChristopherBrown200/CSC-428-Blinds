@@ -1,4 +1,5 @@
 # CSC 428 Blinds Project
+The goal of this project was to create a device that was capable of controlling the pull cord blinds in my apartment's bedroom remotely without removing the current functionality.
 
 ## Parts Used
 Part | |Price
@@ -25,11 +26,11 @@ This library was used to control the servo motor via PWM.
 This library was used to connect to a LAN and set the ESP up as a web server
 
 ## [Code](https://github.com/ChristopherBrown200/CSC-428-Blinds)
-The code for this project can be found in it's github repository.
+The code for this project can be found in its GitHub repository.
 
 
 ## Wiring Diagram
 ![](https://github.com/ChristopherBrown200/CSC-428-Blinds/blob/main/Pictures/Wiring.jpg)
 
 ## 3D Prints 
-The `.stl` files used for this project can be found [here](https://github.com/ChristopherBrown200/CSC-428-Blinds/tree/main/3D%20Models), with thanks to [Tenthrow](https://www.printables.com/@Tenthrow_13787) on Printibles for his knob design.
+The `.stl` files used for this project can be found [here](https://github.com/ChristopherBrown200/CSC-428-Blinds/tree/main/3D%20Models), with thanks to [Tenthrow](https://www.printables.com/@Tenthrow_13787) on Printables for his knob design.
